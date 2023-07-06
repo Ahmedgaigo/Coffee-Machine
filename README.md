@@ -1,5 +1,5 @@
 # Coffee-Machine
-Coffee Maker Application
+Coffee Maker Application.
 This is a simple application that models a coffee maker machine. The application is built using Python classes, and includes the following features:
 
 CoffeeMaker: This class models the coffee maker machine and contains methods to check resources, make coffee, and print a report of all resources.
